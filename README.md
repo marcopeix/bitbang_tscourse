@@ -11,7 +11,7 @@ conda create -n bitbang-env python=3.10
 
 2. Activate environment.
 ```
-conda activate book-env
+conda activate bitbang-env
 ```
 
 3. Install packages using `pip`.

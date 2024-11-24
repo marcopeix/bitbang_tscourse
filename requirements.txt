@@ -1,4 +1,5 @@
 datasetsforecast==0.0.8
+hierarchicalforecast==0.4.3
 hyperopt==0.2.7
 jupyterlab==4.2.5
 lightgbm==4.5.0
@@ -7,6 +8,7 @@ mlforecast==0.13.6
 neuralforecast==1.7.5
 numpy==2.0.2
 pandas==2.2.3
+ray==2.39.0
 shap==0.46.0
 statsforecast==1.7.8
 statsmodels==0.14.4

@@ -1,3 +1,4 @@
+chronos-forecasting==1.4.1
 datasetsforecast==0.0.8
 hierarchicalforecast==0.4.3
 hyperopt==0.2.7
@@ -6,9 +7,11 @@ lightgbm==4.5.0
 matplotlib==3.9.2
 mlforecast==0.13.6
 neuralforecast==1.7.5
-numpy==2.0.2
+nixtla==0.6.4
+numpy==1.26.4
 pandas==2.2.3
 ray==2.39.0
 shap==0.46.0
 statsforecast==1.7.8
 statsmodels==0.14.4
+uni2ts==1.2.0
